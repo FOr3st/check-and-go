@@ -15,7 +15,7 @@ Sample​ ​Input:
 https://gist.github.com/benjambles/ea36b76bc5d8ff09a51def54f6ebd0cb
 
 Users list stored in `users.json`.
-Venues list store in `venues.json`.
+Venues list stored in `venues.json`.
 
 ### The​ ​Output
 The output should display which places are safe to go to, and if applicable why the team should
