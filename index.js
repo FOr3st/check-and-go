@@ -18,7 +18,7 @@ process.stdin.addListener('data', function(input) {
     check(usersData, venuesData);
   }
 
-  // process.stdin.removeListener('data', arguments.callee);
+  process.stdin.removeListener('data', arguments.callee);
 });
 
 function getVenuesData() {

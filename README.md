@@ -34,7 +34,7 @@ Places to avoid:
 ```
 
 ## Starting up
-To start, run: `npm run build`.
+To start, run: `npm start`.
 
 ## Dependencies
 Application requires node.js >= 6.4.0
