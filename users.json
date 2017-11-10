@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Jeff Blatnik",
+    "wont_eat": ["Sushi", "Chinese"],
+    "drinks": ["Beer", "Cider", "Soft drinks"]
+  },
+  {
+    "name": "Mike Sanders",
+    "wont_eat": ["Pizza", "Pasta", "Meat", "Cheese"],
+    "drinks": ["Vodka", "Liquor", "Schnaps", "Coffee"]
+  },
+  {
+    "name": "Joe Rogan",
+    "wont_eat": ["Chinese", "Fruits"],
+    "drinks": ["Vodka", "Beer", "Soft drinks"]
+  },
+  {
+    "name": "Stan Stivenson",
+    "wont_eat": ["Sushi", "Meat", "Fruits"],
+    "drinks": ["Tea", "Coffee", "Beer"]
+  },
+  {
+    "name": "Mark Botaski",
+    "wont_eat": ["Meat", "Fish", "Eggs"],
+    "drinks": ["Coffee", "Soft drinks"]
+  },
+  {
+    "name": "Boris Bor",
+    "wont_eat": [],
+    "drinks": ["Vodka"]
+  },
+  {
+    "name": "Nick Stake",
+    "wont_eat": ["Cheese", "Pizza", "Fruits", "Eggs"],
+    "drinks": ["Tea", "Liquor", "Vine"]
+  },
+  {
+    "name": "Zac Webber",
+    "wont_eat": ["Pizza", "Chinese"],
+    "drinks": ["Coffee", "Soft drinks", "Vine"]
+  },
+  {
+    "name": "The Stig",
+    "wont_eat": ["Meat", "Eggs"],
+    "drinks": ["Schnaps", "Tea", "Cider"]
+  },
+  {
+    "name": "Lucas Bar",
+    "wont_eat": ["Chinese", "Meat", "Fruits"],
+    "drinks": ["Coffee", "Cider"]
+  },
+  {
+    "name": "Jeffrey Jar",
+    "wont_eat": ["Sushi", "Pizza"],
+    "drinks": ["Tea", "Soft drinks", "Vine", "Vodka", "Schnaps"]
+  }
+]

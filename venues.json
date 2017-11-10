@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Sam's house",
+        "food": ["Pizza", "Meat", "Eggs", "Cheese"],
+        "drinks": ["Beer", "Coffee", "Tea", "Liquor"]
+    },
+    {
+        "name": "Sushi 24",
+        "food": ["Chinese", "Fish", "Sushi"],
+        "drinks": ["Soft drinks", "Tea", "Beer"]
+    },
+    {
+        "name": "Banzai",
+        "food": ["Fish", "Sushi", "Eggs"],
+        "drinks": ["Vodka", "Beer", "Liquor", "Coffee"]
+    },
+    {
+        "name": "Uncle Uriy",
+        "food": ["Meat", "Eggs", "Cheese"],
+        "drinks": ["Tea", "Coffee", "Vodka", "Cider", "Schnaps"]
+    },
+    {
+        "name": "The Shawarma",
+        "food": ["Meat", "Cheese"],
+        "drinks": ["Tea", "Coffee"]
+    },
+    {
+        "name": "La Family",
+        "food": ["Pizza", "Pasta", "Meat", "Eggs"],
+        "drinks": ["Soft drinks", "Tea", "Cider", "Vine"]
+    },
+    {
+        "name": "El Rocho",
+        "food": ["Meat", "Cheese", "Chinese"],
+        "drinks": ["Vine", "Beer", "Vodka", "Liquor"]
+    },
+    {
+        "name": "Fish'n'Fruits",
+        "food": ["Fish", "Fruits"],
+        "drinks": ["Soft drinks", "Tea", "Coffee", "Schnaps"]
+    },
+    {
+        "name": "4 Forks",
+        "food": ["Fish", "Meat", "Eggs", "Cheese"],
+        "drinks": ["Beer", "Vodka", "Soft drinks", "Vine"]
+    },
+    {
+        "name": "Colonel Bravo",
+        "food": ["Pizza", "Sushi"],
+        "drinks": ["Beer", "Vodka", "Liquor", "Vine", "Schnaps", "Tea", "Coffee"]
+    }
+]
